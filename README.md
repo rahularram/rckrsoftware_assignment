@@ -11,7 +11,7 @@ Pseudo code for algorithm:
 If (D[u]+c(u,v)<D[v])          
 D[v]=D[u]+c(u,v).   
 
-D[u]-distance of starting node;
+D[u]-distance of starting node; 
 D[v]-distance of final node; 
 c(u,v)-cost from going one node to other
 
